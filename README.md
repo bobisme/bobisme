@@ -2,7 +2,7 @@
 
 # Bob
 
-**Security Engineer** · **autonomous Development Engineer**
+**Security Engineer** · **Autonomous Development Engineer**
 
 _Building tools for the next chapter of software engineering._
 
