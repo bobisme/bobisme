@@ -2,9 +2,11 @@
 
 # Bob
 
-**Security Engineer** · **AI Engineering Enthusiast**
+**Security Engineer** · **autonomous Development Engineer**
 
 _Building tools for the next chapter of software engineering._
+
+Email **bob@standardinput<!--.example-->.co** to work with me.
 
 </div>
 
